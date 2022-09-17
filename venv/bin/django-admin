@@ -1,4 +1,4 @@
-#!/home/rian/Documentos/Fabrica/django/primeiro-contato/venv/bin/python3
+#!/home/rian/Documentos/Fabrica/projeto-fabrica/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
